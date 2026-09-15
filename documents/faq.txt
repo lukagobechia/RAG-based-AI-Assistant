@@ -1,0 +1,9 @@
+Users can reset their password using the Forgot Password option.
+
+A password reset link is sent to the user's registered email address.
+
+If the email is not received, the user should check the spam folder.
+
+Administrators can manage users and assign roles.
+
+The system supports role-based access control.

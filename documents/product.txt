@@ -1,0 +1,10 @@
+The customer support system allows users to create support tickets.
+
+Each ticket contains a title, description, status and priority.
+
+Ticket statuses are:
+Open, In Progress, Resolved and Closed.
+
+Users can search, filter and sort tickets.
+
+The system also supports real-time communication using WebSockets.
